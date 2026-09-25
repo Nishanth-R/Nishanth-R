@@ -6,6 +6,8 @@ I also try to be the customer's voice inside the company. If an airport team is 
 
 If you work at an airport, build software or hardware that lives near one, or just have strong opinions about AODBs, I'd like to talk. We would much rather work alongside partners than around them.
 
+I also like to have disparate hobbies including things like brewing beer, automating my home and vector databases. 
+
 ## How I got here
 
 Before Blunav I spent about three years at Annalise.ai (part of Harrison.ai) as a technical lead. I worked on their AI marketplace and on getting clinical AI models to plug into hospital infrastructure. Hospitals and airports have more in common than you'd expect. Both run on old systems that can't go down, and both are careful about anything new.
